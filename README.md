@@ -4,6 +4,7 @@ Esse projeto está sendo realizado porque no ifs possui certo problemas um deles
 
 Esse é um projeto desenvolvido pelos alunos Michael Wesley Carvalho Dos Santos , Genisson De Jesus Santos , Ronald Ruan Santos Ferraz e Carlos Eduardo Santana Santos, do curso de Sistemas de informação do IFS campos Lagarto, referente a disciplina de Engenharia de Software do professor Flaygner Matos Reboucas.
 
+Este é o [link do projeto](https://www.figma.com/community/file/1118616456505223758).
 
 ## Justificativa
 
@@ -40,9 +41,10 @@ Os Stakeholders seriam os alunos do ifs, os professores, os funcionários do set
 - Registrar que um usuário pegou as chaves
 - Registrar que um usuário devolveu as chaves
 
+## Screenshots
 
-
-
+![Tela Inicial](tela_inicial.png)
+![Tela De Reserva](tela_de_reserva.png)
 
 
 
