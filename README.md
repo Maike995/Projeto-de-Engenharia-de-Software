@@ -1,42 +1,42 @@
 # Projeto de Engenharia de Software
 
-Esse projeto está sendo realizado porque no ifs possui certo problemas um deles seria que muitas vezes quando se chega no ginásio do ifs ele está sendo usado, está em reforma, está sendo limpado, ninguém sabe com quem está a chave ou aquele horário não está disponível para uso.
+Esse é um trabalho desenvolvido pelos alunos Michael Wesley Carvalho Dos Santos, Genisson De Jesus Santos, Ronald Ruan Santos Ferraz e Carlos Eduardo Santana Santos, do curso de Sistemas de Informação do IFS Campus Lagarto, referente a disciplina de Engenharia de Software do professor Flaygner Matos Reboucas.
 
-Esse é um projeto desenvolvido pelos alunos Michael Wesley Carvalho Dos Santos , Genisson De Jesus Santos , Ronald Ruan Santos Ferraz e Carlos Eduardo Santana Santos, do curso de Sistemas de informação do IFS campos Lagarto, referente a disciplina de Engenharia de Software do professor Flaygner Matos Reboucas.
+Esse projeto está sendo realizado com o intuito de resolver certos problemas que envolvem o uso do ginásio poliesportivo do IFS Campus Lagarto. Muitas vezes os alunos pretendem usar o ginásio mas descobrem que ele já está ocupado, está em reforma ou passando por manutenção. Ocorrem também alguns contratempos no momento de conseguir o acesso as chaves.
 
-Este é o [link do projeto](https://www.figma.com/community/file/1118616456505223758).
+Acesse este [link](https://www.figma.com/community/file/1118616456505223758) para conferir o protótipo.
 
 ## Justificativa
 
-A justificativa nesse projeto tem o intuito de criar um software necessário para realizar um controle e previsão das atividades realizadas no ginásio.
+Esse projeto tem o intuito de criar um software para realizar o controle e previsão das atividades realizadas no ginásio.
 
 ## Objetivo
 
-O objetivo seria organizar os horários de utilização do ginásio, organizar seus horários de limpeza podendo ser feita por aqueles que a estão utilizando, reservar o ginásio para um horário específico e ter um acesso fácil as chaves dele.
+Organizar os horários de utilização, limpeza e manutenção do ginásio, permitir a reserva de horários específicos e facilitar o acesso as chaves do portão.
 
 ## Visão geral da proposta 
 
-Então queremos um software que realize as reservas do ginásio como base, seus horários de limpeza, horários de utilização dos professores e suas manutenções periódicas. 
+Um software que realize o gerenciamento dos horários e atividades realizadas no ginásio, permitindo aos discentes, doscentes e demais funcionários a interação com esses agendamentos.
 
 ## Os Stakeholders
 
-Os Stakeholders seriam os alunos do ifs, os professores, os funcionários do setor de limpeza, coordenação do ginásio, zeladores do ginásio e funcionários da manutenção.
+Os Stakeholders do projeto são os alunos do IFS Campus Lagarto, os professores, os funcionários do setor de limpeza, a coordenação do ginásio, os zeladores do ginásio e os funcionários da manutenção.
 
 ## Lista de requisitos do software
 
 ### Não Funcionais
 
 - Funcionar nas plataformas Android, IOS e Desktop
-- Permitir integração com os sistemas já implementados no IFS Lagarto
+- Permitir integração com os sistemas já implementados no IFS Campus Lagarto
 
 ### Funcionais
 
-- Realizar login pelo aplicativo do ifs
+- Realizar login pelo aplicativo do IFS
 - Informar reserva 
 - Reservar dia na semana
 - Finalizar o revezamento
 - Exibir para os usuários os horários agendados
-- Apresentar Calendário dos Dias agendados
+- Apresentar calendário dos dias agendados
 - Sinalizar horário como disponível ou indisponível
 - Registrar que um usuário pegou as chaves
 - Registrar que um usuário devolveu as chaves
